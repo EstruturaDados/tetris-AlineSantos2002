@@ -126,4 +126,4 @@ Gerenciador de peças com fila circular (5) e pilha (3)
 - ✅ Validações completas de operações
 
 ### Arquivo Principal:
-- `sistema_pecas.c` - Código fonte completo
+- `sistema_pecas_mestre.c` - Código fonte completo
