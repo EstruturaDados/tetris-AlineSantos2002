@@ -111,3 +111,19 @@ Boa sorte e divirta-se programando!
 
 Equipe de Ensino - ByteBros
 
+
+## 🎯 Sistema de Peças - Fila Circular e Pilha
+Gerenciador de peças com fila circular (5) e pilha (3)
+
+### Funcionalidades Implementadas:
+- ✅ Fila Circular (5 peças) - FIFO (First In, First Out)
+- ✅ Pilha (3 peças) - LIFO (Last In, First Out)
+- ✅ Operações: jogar, reservar, usar peças
+- ✅ Troca individual entre fila e pilha
+- ✅ Troca múltipla (3 peças de cada)
+- ✅ Geração automática de peças (I, O, T, L)
+- ✅ Visualização em tempo real do estado
+- ✅ Validações completas de operações
+
+### Arquivo Principal:
+- `sistema_pecas.c` - Código fonte completo
